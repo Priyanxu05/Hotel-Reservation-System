@@ -38,20 +38,6 @@ Hotel-Reservation-System
 └── README.md
 ```
 
-## 🚀 How to Run
-
-### Compile the Project
-
-```bash
-javac *.java
-```
-
-### Run the Application
-
-```bash
-java HotelReservationGUI
-```
-
 ## 🏗 System Modules
 
 ### Room Management
@@ -81,13 +67,6 @@ java HotelReservationGUI
 - Managed dynamic data using ArrayLists.
 - Designed a real-world reservation workflow.
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-![Home Screen](screenshots/home.png)
 
 ## 👨‍💻 Author
 
