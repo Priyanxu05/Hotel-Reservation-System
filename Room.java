@@ -3,11 +3,10 @@ public class Room {
     private int roomNumber;
     private String category;
     private boolean available;
-
-    public Room(int roomNumber,String category){
-        this.roomNumber=roomNumber;
-        this.category=category;
-        this.available=true;
+    public Room(int roomNumber, String category){
+        this.roomNumber = roomNumber;
+        this.category = category;
+        this.available = true;
     }
 
     public int getRoomNumber(){
